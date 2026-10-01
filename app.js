@@ -1,7 +1,10 @@
+
 const express = require("express");
+
 const app = express();
 
 const { data } = require("./data.js");
+
 const config = require("./config.json");
 
 // ===============================
